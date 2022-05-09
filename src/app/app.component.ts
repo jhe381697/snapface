@@ -16,7 +16,7 @@ export class AppComponent implements OnInit {
         description: 'Sith',
         imageUrl: 'https://images.unsplash.com/photo-1623476408624-721c9185d569?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2369&q=80',
         createdDate: new Date(),
-        snaps: 0,
+        snaps: 500,
         location: 'planète inconnue'
       },
       {
