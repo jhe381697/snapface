@@ -9,9 +9,6 @@ import { concatMap, mergeMap, delay, exhaustMap, map, switchMap, take, tap } fro
 })
 export class AppComponent implements OnInit {
 
-  redTrainsCalled = 0;
-  yellowTrainsCalled = 0;
-
   ngOnInit() {}
 
 }
